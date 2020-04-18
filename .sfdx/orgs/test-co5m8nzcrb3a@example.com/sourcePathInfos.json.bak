@@ -1,0 +1,2537 @@
+[
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460398,
+            "changeTime": 1587173460398,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460399,
+            "changeTime": 1587173460399,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460774,
+            "changeTime": 1587173460774,
+            "contentHash": "03805979cb527f9845285dcfab6ad956e5cdd669",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460400,
+            "changeTime": 1587173460400,
+            "contentHash": "40803d62e4351e2cac52e3f02596215fc5735c61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2642,
+            "modifiedTime": 1587173460401,
+            "changeTime": 1587173460401,
+            "contentHash": "a8b8eb773eaf315ea3ceeee5012daa747951c769",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460442,
+            "changeTime": 1587173460442,
+            "contentHash": "ba9879f7d80876e4ec450b44a7bd75a34852fe74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460441,
+            "changeTime": 1587173460441,
+            "contentHash": "689297a222afb5f511bd2046b591a87ca016f585",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1143,
+            "modifiedTime": 1587173460403,
+            "changeTime": 1587173460403,
+            "contentHash": "a27772260361275da0c0e520f42acc43e1d70586",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 265,
+            "modifiedTime": 1587173460423,
+            "changeTime": 1587173460423,
+            "contentHash": "79c6d7613d11cd63af5470bcfd1d48b901abea50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 190,
+            "modifiedTime": 1587173460437,
+            "changeTime": 1587173460437,
+            "contentHash": "f3c0daa9bb369f8dbeac378b66f4a41c9a732014",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1587173460438,
+            "changeTime": 1587173460438,
+            "contentHash": "3c7ac81df419eb99bff9c325b440da64f1a7d8be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 774,
+            "modifiedTime": 1587173460439,
+            "changeTime": 1587173460439,
+            "contentHash": "0441b8ba21d8af7b28dd72a6919357d4b3614fb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1021,
+            "modifiedTime": 1587173460441,
+            "changeTime": 1587173460441,
+            "contentHash": "b205a5b32cd038a6f2e258a9cb24ae2557e386b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\auraPropertyListMap\\auraPropertyListMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2542,
+            "modifiedTime": 1587173460442,
+            "changeTime": 1587173460442,
+            "contentHash": "cd01fd2da9d34dc67dca086a2d1078433c0d5ff8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460447,
+            "changeTime": 1587173460447,
+            "contentHash": "6195aa8dbdc694a8b5f229980a62359d2617c787",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1585,
+            "modifiedTime": 1587173460443,
+            "changeTime": 1587173460443,
+            "contentHash": "4db89afb91b340b4d0d7f7bd2db9c6a6ad7ddb51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 268,
+            "modifiedTime": 1587173460445,
+            "changeTime": 1587173460445,
+            "contentHash": "710c0d5d64d286837805fe3e7a9594cf8df4ac56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1587173460446,
+            "changeTime": 1587173460446,
+            "contentHash": "ff1ce9ec60837f73a5550815a2d0e1f5c1657650",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1587173460447,
+            "changeTime": 1587173460447,
+            "contentHash": "4d85a2d3322d997fdc1cc017471e063f62f16509",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\aura\\pageTemplate_2_7_3\\pageTemplate_2_7_3.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1587173460448,
+            "changeTime": 1587173460448,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460458,
+            "changeTime": 1587173460458,
+            "contentHash": "426fa230a6333c4e3474c873d9a9ce64ab0df8bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PagedResult.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PagedResult.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1587173460449,
+            "changeTime": 1587173460449,
+            "contentHash": "0e362bb7c0ef6746d4cec50e868a2fe945c98a97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PagedResult.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PagedResult.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1587173460450,
+            "changeTime": 1587173460450,
+            "contentHash": "ac520afcc0cf4720769e46fcb9a18bde7d60e1e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PropertyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PropertyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3946,
+            "modifiedTime": 1587173460452,
+            "changeTime": 1587173460452,
+            "contentHash": "69e91e94b0b5269c93f1691ad45f540b8e6d2194",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PropertyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\PropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1587173460453,
+            "changeTime": 1587173460453,
+            "contentHash": "71e9021b78501fbbdecc93282a234b2698bc03dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\SampleDataController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\SampleDataController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1587173460454,
+            "changeTime": 1587173460454,
+            "contentHash": "700a3e1759cb0c7153d06d6321a6cc931418a87e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\SampleDataController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\SampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1587173460455,
+            "changeTime": 1587173460455,
+            "contentHash": "7f558b46fb8421a577e7f857ddb2157e5fe3f6eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\TestPropertyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\TestPropertyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1650,
+            "modifiedTime": 1587173460456,
+            "changeTime": 1587173460456,
+            "contentHash": "dda804a1ae97b27135f9f54e4ef8274bca8a596c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\TestPropertyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\classes\\TestPropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1587173460458,
+            "changeTime": 1587173460458,
+            "contentHash": "7b24245740e233269f05a04331991498482ec97c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460460,
+            "changeTime": 1587173460460,
+            "contentHash": "b6558fc92fe2792b6b6c8393dfb899fdac8fcb4b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets\\dreamhouselogosquare.asset",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets\\dreamhouselogosquare.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23382,
+            "modifiedTime": 1587173460460,
+            "changeTime": 1587173460460,
+            "contentHash": "6d5b29819c501c5f2dcf1960d7e62cb903a5ce20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets\\dreamhouselogosquare.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\contentassets\\dreamhouselogosquare.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1587173460461,
+            "changeTime": 1587173460461,
+            "contentHash": "2210b581b5f0d0e0578c55c68197c6dee3befdf0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460466,
+            "changeTime": 1587173460466,
+            "contentHash": "49cad7b828a997abb70d2dab633034ea3b9219b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Broker_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Broker_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5043,
+            "modifiedTime": 1587173460463,
+            "changeTime": 1587173460463,
+            "contentHash": "433acc94f857db2dd934cf4f8126fd998b2dd8fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Explorer.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Explorer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1064,
+            "modifiedTime": 1587173460464,
+            "changeTime": 1587173460464,
+            "contentHash": "5bd8b218d07c33e98bd55465a384a02c453cad5c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Finder.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Finder.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1066,
+            "modifiedTime": 1587173460465,
+            "changeTime": 1587173460465,
+            "contentHash": "c765943ea717c8a08f0ea9a015b437ed654a769e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6283,
+            "modifiedTime": 1587173460466,
+            "changeTime": 1587173460466,
+            "contentHash": "699725b35aa4fc8154c883930d270c2c2640025e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Settings.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\flexipages\\Settings.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 738,
+            "modifiedTime": 1587173460467,
+            "changeTime": 1587173460467,
+            "contentHash": "53eeebdeb6b2cec090d91ef1c990557e9c4ea63d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460469,
+            "changeTime": 1587173460469,
+            "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3705,
+            "modifiedTime": 1587173460468,
+            "changeTime": 1587173460468,
+            "contentHash": "fa8fd68b77d2087cd75893df9dc58ac2698aefba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7307,
+            "modifiedTime": 1587173460470,
+            "changeTime": 1587173460470,
+            "contentHash": "f1ec98b1a70a69e417f35800c03e706d7419390f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460709,
+            "changeTime": 1587173460709,
+            "contentHash": "f75e0eee502d279862e7b8e4867ab95ac8575c14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460475,
+            "changeTime": 1587173460475,
+            "contentHash": "12ba0a18b6a4019c20b1e9dd17541953513b0456",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 24,
+            "modifiedTime": 1587173460473,
+            "changeTime": 1587173460473,
+            "contentHash": "13e689e6eed9733d9671ba9f1df6095b9f9ba31b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1561,
+            "modifiedTime": 1587173460474,
+            "changeTime": 1587173460474,
+            "contentHash": "66d79a9730181150fa4529c410524f00e672c897",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\auraPubsub\\auraPubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460475,
+            "changeTime": 1587173460475,
+            "contentHash": "ef280919141fc0476ccbff6e24a2815e5f27a1d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460479,
+            "changeTime": 1587173460479,
+            "contentHash": "4adb41826974bec732a7e6710694f96e4ac17801",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 923,
+            "modifiedTime": 1587173460477,
+            "changeTime": 1587173460477,
+            "contentHash": "a6d2329bd8a0709282d3adfe0e8d86776e37a9f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1302,
+            "modifiedTime": 1587173460478,
+            "changeTime": 1587173460478,
+            "contentHash": "92fd5b56b98b59729d75692be0ce0b80d3e36d4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\brokerCard\\brokerCard.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 690,
+            "modifiedTime": 1587173460479,
+            "changeTime": 1587173460479,
+            "contentHash": "2ecb4be3d740472a1fbecf98754ed77cffa49f9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460484,
+            "changeTime": 1587173460484,
+            "contentHash": "9231ca0f78271a286dc6d67840a46306e81da34e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1590,
+            "modifiedTime": 1587173460481,
+            "changeTime": 1587173460481,
+            "contentHash": "3c04dafc01f98287791731431817219dbd90b13e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1486,
+            "modifiedTime": 1587173460482,
+            "changeTime": 1587173460482,
+            "contentHash": "ebeef2eac94e1e4f6824e590e956d1744c1c43d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2213,
+            "modifiedTime": 1587173460483,
+            "changeTime": 1587173460483,
+            "contentHash": "c608f7e95b86ffb53e5eb82c8e9e00d7716d5f7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\daysOnMarket\\daysOnMarket.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 776,
+            "modifiedTime": 1587173460484,
+            "changeTime": 1587173460484,
+            "contentHash": "b138eae3099afc774112fc752bc00d9e02abe958",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460489,
+            "changeTime": 1587173460489,
+            "contentHash": "7331a089061b6376f394b933ce42f620155b2b21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 43,
+            "modifiedTime": 1587173460486,
+            "changeTime": 1587173460486,
+            "contentHash": "ba8345682616297092ed2de5e140f9b10ce7b405",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 856,
+            "modifiedTime": 1587173460487,
+            "changeTime": 1587173460487,
+            "contentHash": "f79d6dc95b9cda8b8365db01f7eff49e777bbf05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 943,
+            "modifiedTime": 1587173460488,
+            "changeTime": 1587173460488,
+            "contentHash": "b9b3c40d408e0ca76c1f09f236f8393004f55dc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460489,
+            "changeTime": 1587173460489,
+            "contentHash": "ef280919141fc0476ccbff6e24a2815e5f27a1d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460492,
+            "changeTime": 1587173460492,
+            "contentHash": "28fd8247ac350c1b750d7a34ab486d87ae7ec460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1288,
+            "modifiedTime": 1587173460491,
+            "changeTime": 1587173460491,
+            "contentHash": "02d91ebcba7c3841f50b44c5f00eab132cefb177",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\ldsUtils\\ldsUtils.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1587173460492,
+            "changeTime": 1587173460492,
+            "contentHash": "55ea525dbd132983cde40c2934f533281b9bdb84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460497,
+            "changeTime": 1587173460497,
+            "contentHash": "c1cd00c92150b77a70c3d8e2c103c92d2c4ef8de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1587173460494,
+            "changeTime": 1587173460494,
+            "contentHash": "1aef68e9e338ad0d6f858ca09b66a991a311f168",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 972,
+            "modifiedTime": 1587173460495,
+            "changeTime": 1587173460495,
+            "contentHash": "5d4e459ca04d9229653d1c474d75f617bdb18493",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 835,
+            "modifiedTime": 1587173460496,
+            "changeTime": 1587173460496,
+            "contentHash": "36b550a1e52b89f6ea59aaba6c502bfb0e211e81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460498,
+            "changeTime": 1587173460498,
+            "contentHash": "ef280919141fc0476ccbff6e24a2815e5f27a1d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460503,
+            "changeTime": 1587173460503,
+            "contentHash": "a0e9c57f83df9c0b15386b0380f3127bd519a2f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1587173460499,
+            "changeTime": 1587173460499,
+            "contentHash": "41a441bc3198805ea5394f91bd4cc89c587ae804",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1800,
+            "modifiedTime": 1587173460500,
+            "changeTime": 1587173460500,
+            "contentHash": "f541eb5131fd37b6666424637e1d9715123a1a71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1771,
+            "modifiedTime": 1587173460502,
+            "changeTime": 1587173460502,
+            "contentHash": "32b5913b32cc3895350292564f6915c7300c6b79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyCarousel\\propertyCarousel.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1587173460503,
+            "changeTime": 1587173460503,
+            "contentHash": "2a97cc5d6b32eb3aaa1537b2a9bc9342524c8ca9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460509,
+            "changeTime": 1587173460509,
+            "contentHash": "89f56d889cc34c3031219146fb27947d8bbda919",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1341,
+            "modifiedTime": 1587173460505,
+            "changeTime": 1587173460505,
+            "contentHash": "789fa4e1956aa44bc35535076506493c191d1d16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1875,
+            "modifiedTime": 1587173460508,
+            "changeTime": 1587173460508,
+            "contentHash": "5991436bf5336c2768d3e6e41d5430b3e59a716f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyFilter\\propertyFilter.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 290,
+            "modifiedTime": 1587173460509,
+            "changeTime": 1587173460509,
+            "contentHash": "f31cad779bb78066751e4694327948e5e2513be2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460665,
+            "changeTime": 1587173460665,
+            "contentHash": "86753ca8b966a098aabf819e7d17bc518533409f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 477,
+            "modifiedTime": 1587173460511,
+            "changeTime": 1587173460511,
+            "contentHash": "1f50a2978664115b3aa251770ec1b5952bfa8bc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1730,
+            "modifiedTime": 1587173460536,
+            "changeTime": 1587173460536,
+            "contentHash": "957768c4d693719e271bbdd909dfbddb393598ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyMap\\propertyMap.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 778,
+            "modifiedTime": 1587173460666,
+            "changeTime": 1587173460666,
+            "contentHash": "bdc6538460a807a80affde098643286866088f01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460695,
+            "changeTime": 1587173460695,
+            "contentHash": "f0cefed26a91271391f534c10dad8c9577d3449d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 466,
+            "modifiedTime": 1587173460668,
+            "changeTime": 1587173460668,
+            "contentHash": "4be3a61ecb98e94eff52e4737c73079165f62dbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1372,
+            "modifiedTime": 1587173460693,
+            "changeTime": 1587173460693,
+            "contentHash": "4aeaa6ba3eec5d09eb0ced7e42104d3fe39d414f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1913,
+            "modifiedTime": 1587173460695,
+            "changeTime": 1587173460695,
+            "contentHash": "218a586b92e4bc5137cd3e04671f39da9631638d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertySummary\\propertySummary.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 595,
+            "modifiedTime": 1587173460696,
+            "changeTime": 1587173460696,
+            "contentHash": "f37805aa031d00ed60cf2bd57a2dabce4654b59b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460700,
+            "changeTime": 1587173460700,
+            "contentHash": "fbd305a5d48b2706182490dd47ddf45e1f07ec0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 674,
+            "modifiedTime": 1587173460697,
+            "changeTime": 1587173460697,
+            "contentHash": "5b7480d835aa5f60b0a7e39b7a2a9c8197be84d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 638,
+            "modifiedTime": 1587173460699,
+            "changeTime": 1587173460699,
+            "contentHash": "6853a666143e6285fe01b1f57cd8c3cf3f94524d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 444,
+            "modifiedTime": 1587173460700,
+            "changeTime": 1587173460700,
+            "contentHash": "f9d73b20bea87d7c0af961f36dd84315bd62e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTile\\propertyTile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460701,
+            "changeTime": 1587173460701,
+            "contentHash": "ef280919141fc0476ccbff6e24a2815e5f27a1d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460706,
+            "changeTime": 1587173460706,
+            "contentHash": "0f23ffbacfdcc310d37f48d3c0bb67b5d7849e76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 138,
+            "modifiedTime": 1587173460703,
+            "changeTime": 1587173460703,
+            "contentHash": "03306615add01553c44edd60e457da820c193b3e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1160,
+            "modifiedTime": 1587173460704,
+            "changeTime": 1587173460704,
+            "contentHash": "01c1f7c49e2b1b039e20d1bf1b32422e2db63a1c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1611,
+            "modifiedTime": 1587173460705,
+            "changeTime": 1587173460705,
+            "contentHash": "c56d1d67e5528ce57aa885eaa2e1c8c59aef831a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\propertyTileList\\propertyTileList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 287,
+            "modifiedTime": 1587173460706,
+            "changeTime": 1587173460706,
+            "contentHash": "c89082d126e40f389d64334cb94f903797df0551",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460708,
+            "changeTime": 1587173460708,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3192,
+            "modifiedTime": 1587173460707,
+            "changeTime": 1587173460707,
+            "contentHash": "738e5ee0f96d4924092ef3ff0f9d08ae88e91fd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460709,
+            "changeTime": 1587173460709,
+            "contentHash": "ef280919141fc0476ccbff6e24a2815e5f27a1d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460712,
+            "changeTime": 1587173460712,
+            "contentHash": "d6eba1df0feb745b9ff91ea4fea41f104fc51eab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 660,
+            "modifiedTime": 1587173460710,
+            "changeTime": 1587173460710,
+            "contentHash": "f882945f69648df881f01c6014d835f41fb140e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 933,
+            "modifiedTime": 1587173460711,
+            "changeTime": 1587173460711,
+            "contentHash": "b428b980910f7983c9f0913852e547f52e916c6d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\lwc\\sampleDataImporter\\sampleDataImporter.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 333,
+            "modifiedTime": 1587173460713,
+            "changeTime": 1587173460713,
+            "contentHash": "e2b14a6af21e1316449cdc44b5a21fb363e64295",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460728,
+            "changeTime": 1587173460728,
+            "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460727,
+            "changeTime": 1587173460727,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2083,
+            "modifiedTime": 1587173460715,
+            "changeTime": 1587173460715,
+            "contentHash": "f6d7f02e12c99fc2c954bfb1b0371be150b9ce32",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460717,
+            "changeTime": 1587173460717,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1587173460717,
+            "changeTime": 1587173460717,
+            "contentHash": "328078ce403bce096c38b3e950b6785f8dc86f1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460724,
+            "changeTime": 1587173460724,
+            "contentHash": "c4eaa869868d2a5724c0d0e088251470596768bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Broker_Id__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Broker_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1587173460718,
+            "changeTime": 1587173460718,
+            "contentHash": "3dc3a7d8719c71e712fbe075b76b998477b9dd40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 343,
+            "modifiedTime": 1587173460719,
+            "changeTime": 1587173460719,
+            "contentHash": "703878851564f11f2ee95d64e7e6cfa5d7bf08b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 329,
+            "modifiedTime": 1587173460721,
+            "changeTime": 1587173460721,
+            "contentHash": "8d2e30ac7c8a8082ad411e57264593b6587bf297",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1587173460722,
+            "changeTime": 1587173460722,
+            "contentHash": "5d59d1e441e82593a99b2e343a553e1a3fb1e7ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 478,
+            "modifiedTime": 1587173460723,
+            "changeTime": 1587173460723,
+            "contentHash": "fbea721bc5561ac30b91ba781a08948ad7b6744d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1587173460723,
+            "changeTime": 1587173460723,
+            "contentHash": "0095cd328a577b46538b2e3653513d6249c35613",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1587173460725,
+            "changeTime": 1587173460725,
+            "contentHash": "2f80ca4e3dd020cde91e8aa640e5bd4ebbeb80c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460727,
+            "changeTime": 1587173460727,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1587173460728,
+            "changeTime": 1587173460728,
+            "contentHash": "1e1acc5cf6520420d4c46b97e4501ed300e4cbc7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460759,
+            "changeTime": 1587173460759,
+            "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460730,
+            "changeTime": 1587173460730,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1587173460730,
+            "changeTime": 1587173460730,
+            "contentHash": "c8713fc1653183300a7d205cf906bf3907c07f58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460758,
+            "changeTime": 1587173460758,
+            "contentHash": "c706135ad2b2d5859b538f81e8d6c2a850af0449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1587173460732,
+            "changeTime": 1587173460732,
+            "contentHash": "37bc8acf0e9288cd5b636a655787099d4d8a77ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 477,
+            "modifiedTime": 1587173460733,
+            "changeTime": 1587173460733,
+            "contentHash": "7b6f356ad10c1f8e02ba58a85bfdce133dfde52d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 484,
+            "modifiedTime": 1587173460734,
+            "changeTime": 1587173460734,
+            "contentHash": "3e559fa0e32a762607537aa021a994a0cec4db45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 482,
+            "modifiedTime": 1587173460735,
+            "changeTime": 1587173460735,
+            "contentHash": "d2825edda09af0327178f269b1b7a6115bfbdb62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1587173460736,
+            "changeTime": 1587173460736,
+            "contentHash": "623df575ad3d0e9e6d1436d02d3b33142abd648b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1587173460737,
+            "changeTime": 1587173460737,
+            "contentHash": "72e4d4c0f4355edb5e4e9fcb60c8c3467ae89154",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1587173460738,
+            "changeTime": 1587173460738,
+            "contentHash": "d2190fff262b7ea6e2721bcfe1efcc63221efd22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 414,
+            "modifiedTime": 1587173460739,
+            "changeTime": 1587173460739,
+            "contentHash": "a360e0648b056da598572395e31ba6d152c9ab2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1587173460740,
+            "changeTime": 1587173460740,
+            "contentHash": "a5e77a74cc9ecd9b22405a66d2795e6a4b574408",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 461,
+            "modifiedTime": 1587173460741,
+            "changeTime": 1587173460741,
+            "contentHash": "eb5d0886dee8f9476668734cf85dfef0234f8a77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1587173460742,
+            "changeTime": 1587173460742,
+            "contentHash": "da39a23b0228c5e9fc852bc0c9d15b45ebb33d97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 566,
+            "modifiedTime": 1587173460743,
+            "changeTime": 1587173460743,
+            "contentHash": "7323e24eb13d817a2d2bd94b3d9773bdc1935e6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 452,
+            "modifiedTime": 1587173460744,
+            "changeTime": 1587173460744,
+            "contentHash": "c3781290da1e4ecb89925f65e6951b2f3ea45975",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 497,
+            "modifiedTime": 1587173460745,
+            "changeTime": 1587173460745,
+            "contentHash": "15cda0d99917e092a88fabb1c7655b32b2960f28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 539,
+            "modifiedTime": 1587173460746,
+            "changeTime": 1587173460746,
+            "contentHash": "330af7fb5528b7b161e0439479e60cb2dbc289a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1587173460747,
+            "changeTime": 1587173460747,
+            "contentHash": "4216688dcce03860e81a10ac84d30a1b46143c19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Price_Sold__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Price_Sold__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1587173460748,
+            "changeTime": 1587173460748,
+            "contentHash": "621b3f74f86f167243a2642e97ffb80e2aa58ccb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1587173460749,
+            "changeTime": 1587173460749,
+            "contentHash": "ff05e722405f58769b65980dbbc577437572dbec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 573,
+            "modifiedTime": 1587173460750,
+            "changeTime": 1587173460750,
+            "contentHash": "9c8f12bdf5f0845eb56ecb9c26b5cc000f3ac550",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1587173460751,
+            "changeTime": 1587173460751,
+            "contentHash": "ba682e35d41cb5905521dfd2c2bde75128b53ad8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1422,
+            "modifiedTime": 1587173460753,
+            "changeTime": 1587173460753,
+            "contentHash": "94aedf4adb196ff8cfd8c00d9039f1faa0a8af6a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1587173460754,
+            "changeTime": 1587173460754,
+            "contentHash": "03746e4dd72685504a08a22fa9c8b0220bc5b119",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 563,
+            "modifiedTime": 1587173460755,
+            "changeTime": 1587173460755,
+            "contentHash": "aa9d95abfdfcd827d1ce7543019f54138d1e394f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 409,
+            "modifiedTime": 1587173460756,
+            "changeTime": 1587173460756,
+            "contentHash": "0766635b7b706f64777cccb7c8f665512cb83d90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 456,
+            "modifiedTime": 1587173460757,
+            "changeTime": 1587173460757,
+            "contentHash": "855ed4efb657a411b369a75dcb178b3835a3cd5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1587173460758,
+            "changeTime": 1587173460758,
+            "contentHash": "69eaa35972572518f75e4b26caceae4470492484",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460759,
+            "changeTime": 1587173460759,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 337,
+            "modifiedTime": 1587173460760,
+            "changeTime": 1587173460760,
+            "contentHash": "95d646fa53fe71fd819431f9b0a7305e1b575b7f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2238,
+            "modifiedTime": 1587173460729,
+            "changeTime": 1587173460729,
+            "contentHash": "491792585185a8d7aa6c20e3367a1518389f93ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460761,
+            "changeTime": 1587173460761,
+            "contentHash": "a3be63df37df47fff38f15d6edaf1499375e1eaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\permissionsets\\dreamhouse.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\permissionsets\\dreamhouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7377,
+            "modifiedTime": 1587173460761,
+            "changeTime": 1587173460761,
+            "contentHash": "da7a377b8c8435a1519b4efb769dac8b0e81c947",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460773,
+            "changeTime": 1587173460773,
+            "contentHash": "97835dbbc104623b0e16e8f0e80228458737babf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 243015,
+            "modifiedTime": 1587173460764,
+            "changeTime": 1587173460764,
+            "contentHash": "ba6267afc8db7c06d52f3c7e575d7be4aa51cb0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1587173460767,
+            "changeTime": 1587173460767,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_brokers.json",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_brokers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2723,
+            "modifiedTime": 1587173460768,
+            "changeTime": 1587173460768,
+            "contentHash": "9d8422f24a7edacf9cff8708fe0c35457b244e5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_brokers.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_brokers.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1587173460769,
+            "changeTime": 1587173460769,
+            "contentHash": "4c06ab0858c229ff8a6d4c2c9568986f338bda58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_contacts.json",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_contacts.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 754,
+            "modifiedTime": 1587173460770,
+            "changeTime": 1587173460770,
+            "contentHash": "0ea20ec73379428ea7fed00a515bdb4d058ed8ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_contacts.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_contacts.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1587173460771,
+            "changeTime": 1587173460771,
+            "contentHash": "4c06ab0858c229ff8a6d4c2c9568986f338bda58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_properties.json",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_properties.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13182,
+            "modifiedTime": 1587173460772,
+            "changeTime": 1587173460772,
+            "contentHash": "9b66d28508573ff73c8b5a532820ce35173a52fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_properties.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\staticresources\\sample_data_properties.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1587173460773,
+            "changeTime": 1587173460773,
+            "contentHash": "4c06ab0858c229ff8a6d4c2c9568986f338bda58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173460779,
+            "changeTime": 1587173460779,
+            "contentHash": "3154f879b0df40537f6cde30fd8d2e9a4f997f75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1587173460775,
+            "changeTime": 1587173460775,
+            "contentHash": "80216bfa86cf5caf1902d2179b7d152d45cd3a0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property_Explorer.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property_Explorer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1587173460776,
+            "changeTime": 1587173460776,
+            "contentHash": "5ccb379cc3d699247c913882a74278f58a005e42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property_Finder.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property_Finder.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 295,
+            "modifiedTime": 1587173460777,
+            "changeTime": 1587173460777,
+            "contentHash": "fdb9e76cf9ab7d50c5f02492ed61b8f7419a7d52",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1587173460778,
+            "changeTime": 1587173460778,
+            "contentHash": "f539eaa8707d042e599915786771d34f6e6de331",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Settings.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt\\force-app\\main\\default\\tabs\\Settings.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1587173460779,
+            "changeTime": 1587173460779,
+            "contentHash": "3a57dd7b7714552dc9ba5621f27af73bba30c569",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\rober_000\\IdeaProjects\\PropertyMgt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587173637450,
+            "changeTime": 1587173637450,
+            "contentHash": "89fec9ea81b6e5925b914313eed9d92e4e7f5f98",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
